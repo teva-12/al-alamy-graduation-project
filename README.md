@@ -20,6 +20,8 @@ Graduation Project — System Analysis & Design
 | DFD Level 1 — Task Management | [`diagrams/dfd-level-1-task-management`](./diagrams/dfd-level-1-task-management.png) |
 | Domain Model / Class Diagram | [`diagrams/domain-model-class-diagram`](./diagrams/domain-model-class-diagram.png) |
 | Deployment Diagram | [`diagrams/deployment-diagram`](./diagrams/deployment-diagram.png) |
+| Conceptual ERD (crow's-foot) | [`diagrams/conceptual-erd`](./diagrams/conceptual-erd.png) |
+| System Architecture Diagram (layered N-tier view) | [`diagrams/system-architecture-diagram`](./diagrams/system-architecture-diagram.png) |
 | Module Architecture Diagram | [`diagrams/module-architecture-diagram`](./diagrams/module-architecture-diagram.png) |
 | Information Architecture Diagram | [`diagrams/information-architecture-diagram`](./diagrams/information-architecture-diagram.png) |
 
@@ -36,12 +38,10 @@ To add these to the repo as images/PDF: open each link → **Share → Export** 
 
 **Done:**
 - Full SAD document with all planning sections (vision → testing strategy → development order)
-- System Context, Use Case, 5 Activity Diagrams, 5 Sequence Diagrams, DFD 0 & 1, Domain Model, Deployment, Module Architecture, Information Architecture
+- System Context, Use Case, 5 Activity Diagrams, 5 Sequence Diagrams, DFD 0 & 1, Domain Model, Conceptual ERD, Deployment, Module Architecture, System Architecture, Information Architecture
 - 3 of 13 UI screens (Admin / Freelancer / Client dashboards)
 
 **Still pending:**
-- Conceptual ERD (distinct from the Domain Model)
-- System Architecture Diagram (distinct from Module Architecture / Deployment)
 - Remaining 10 UI screens (Template Gallery, Template Preview, Freelancer task screens, Admin task/review screens, Project & Meeting management UI, Notification Center)
 - Al-Alamy Design System, Requirements Traceability Matrix, Overall Project Workflow diagram
 
