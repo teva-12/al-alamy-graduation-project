@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="2325px" preserveAspectRatio="none" style="width:2123px;height:2325px;" version="1.1" viewBox="0 0 2123 2325" width="2123px" zoomAndPan="magnify" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo5ZWE4ZmNmMi03OWI4LTRiODItYWZlYi1jMTgwYzVkNGJiZjIAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaIvMGiTcviaioUDPa9r6VAkAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpjMmU3MGUzZi03ZWZkLTQ5ZDMtYjIwMS01YjljYjk4NDNhYmFscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoLeO34uQbQ2SCZsdQ9k6Z/AAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggBvJ8+D5ZztYwOXKe3YwxRdGkJ1OxmUlAQlKM0Cbm+Z2kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaPKwkZeI5XMPQIPAyH9W1VUAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYICNUNhNs5jqxuJ7eVCGAf4ZOV1dp6dXfLskT2fhdNH6GZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GQGoZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjllYThmY2YyLTc5YjgtNGI4Mi1hZmViLWMxODBjNWQ0YmJmMi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjg5NDY2Mzc3LWU4ZWEtNDM2Ny04OGE2LWZkNDUyZTdlZDM2ZHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAG8nz4PlnO1jA5cp7djDFF0aQnU7GZSUBCUozQJub5naJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggBaMPY+uMbt4OOX4FvdCIPcUZvIAC7qtE6gYjsdzITdGiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg3bnOibpLUzlZsy0uko2a46mZgxkOtenVQvnvNCBuqW50Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQHjE2qIif7QujSxOhtdcTwP1Qx/g0cUCuFCAys+z9MThOnIuMA5st0YUZIEkZ3P9AbhHmGIjIlWVMLCtKKLk5wM=</c2pa:manifest></metadata><defs/><g><text fill="#000000" font-family="Helvetica" font-size="18" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="417" x="856" y="16.708">Al-Alamy — High-Level Use Case Diagram</text><!--MD5=[0bca030ee4e68d4457a0dbf8a3a456bb]
+cluster AlAlamy--><rect fill="#FFFFFF" height="2119.5" style="stroke: #333333; stroke-width: 1.5;" width="873" x="22" y="137.4531"/><text fill="#000000" font-family="Helvetica" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="494" x="211.5" y="152.4482">Al-Alamy Digital Transformation &amp; Career Opportunity Platform</text><!--MD5=[f6302d4af45f2034fbacd6ca4ba2384d]
+cluster PkgClient--><polygon fill="#FFFFFF" points="46,180.4531,172,180.4531,179,201.5859,332,201.5859,332,1845.9531,46,1845.9531,46,180.4531" style="stroke: #777770; stroke-width: 1.5;"/><line style="stroke: #777770; stroke-width: 1.5;" x1="46" x2="179" y1="201.5859" y2="201.5859"/><text fill="#000000" font-family="Helvetica" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="120" x="50" y="194.52">Client use cases</text><!--MD5=[b83f37c8c9739e0abece22deec057242]
+cluster PkgFreelancer--><polygon fill="#FFFFFF" points="356,181.9531,518,181.9531,525,203.0859,582,203.0859,582,1757.4531,356,1757.4531,356,181.9531" style="stroke: #777770; stroke-width: 1.5;"/><line style="stroke: #777770; stroke-width: 1.5;" x1="356" x2="525" y1="203.0859" y2="203.0859"/><text fill="#000000" font-family="Helvetica" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="156" x="360" y="196.02">Freelancer use cases</text><!--MD5=[2340bb3e275a8b6218b8f21e99f29ec7]
+cluster PkgAdmin--><polygon fill="#FFFFFF" points="606,181.9531,861,181.9531,868,203.0859,871,203.0859,871,2232.9531,606,2232.9531,606,181.9531" style="stroke: #777770; stroke-width: 1.5;"/><line style="stroke: #777770; stroke-width: 1.5;" x1="606" x2="868" y1="203.0859" y2="203.0859"/><text fill="#000000" font-family="Helvetica" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="249" x="610" y="196.02">Admin / Al-Alamy Team use cases</text><ellipse cx="278.9172" cy="236.3715" fill="#E6F1FB" rx="36.9172" ry="21.9183" style="stroke: #185FA5; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="48" x="254.9172" y="233.4724">«client»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="47" x="255.4172" y="246.5129">Register</text><ellipse cx="279.1201" cy="333.0902" fill="#E6F1FB" rx="34.6201" ry="20.637" style="stroke: #185FA5; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="48" x="255.1201" y="332.0758">«client»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="30" x="264.1201" y="345.1164">Login</text><ellipse cx="253.235" cy="406.337" fill="#E6F1FB" rx="62.735" ry="20.3838" style="stroke: #185FA5; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="48" x="229.235" y="400.8867">«client»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="92" x="207.235" y="413.9272">Manage Account</text><ellipse cx="226.1619" cy="481.3855" fill="#E6F1FB" rx="90.1619" ry="20.4324" style="stroke: #185FA5; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="48" x="202.1619" y="475.0957">«client»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="141" x="155.6619" y="488.1363">Manage Business Profile</text><ellipse cx="226.164" cy="555.79" fill="#E6F1FB" rx="65.164" ry="20.3369" style="stroke: #185FA5; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="48" x="202.164" y="550.2661">«client»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="96" x="178.164" y="563.3066">Browse Services</text><ellipse cx="225.9174" cy="629.2366" fill="#E6F1FB" rx="89.4174" ry="20.2835" style="stroke: #185FA5; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="48" x="201.9174" y="623.1018">«client»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="138" x="156.9174" y="636.1423">View Website Templates</text><ellipse cx="154.2283" cy="716.2988" fill="#E6F1FB" rx="92.2283" ry="20.8457" style="stroke: #185FA5; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="48" x="130.2283" y="709.5795">«client»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="149" x="79.7283" y="722.6201">Preview Website Template</text><ellipse cx="133.235" cy="803.337" fill="#E6F1FB" rx="62.735" ry="20.3838" style="stroke: #185FA5; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="48" x="109.235" y="797.8867">«client»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="92" x="87.235" y="810.9272">Request Service</text><ellipse cx="225.9119" cy="897.3355" fill="#E6F1FB" rx="89.9119" ry="20.3824" style="stroke: #185FA5; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="48" x="201.9119" y="891.0978">«client»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="140" x="155.9119" y="904.1383">Request Website Service</text><ellipse cx="243.8211" cy="1002.3004" fill="#E6F1FB" rx="71.3211" ry="25.3473" style="stroke: #185FA5; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="48" x="219.8211" y="991.8461">«client»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="121" x="183.3211" y="1004.8866">Request Social Media</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="73" x="207.3211" y="1017.6913">Management</text><ellipse cx="226.1619" cy="1129.3855" fill="#E6F1FB" rx="90.1619" ry="20.4324" style="stroke: #185FA5; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="48" x="202.1619" y="1123.0957">«client»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="141" x="155.6619" y="1136.1363">Request Paid Advertising</text><ellipse cx="218.9212" cy="1233.1374" fill="#E6F1FB" rx="96.4212" ry="21.6842" style="stroke: #185FA5; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="48" x="194.9212" y="1225.549">«client»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="164" x="136.9212" y="1238.5895">Submit Custom Requirement</text><ellipse cx="236.9486" cy="1319.3127" fill="#E6F1FB" rx="63.9486" ry="20.3596" style="stroke: #185FA5; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="48" x="212.9486" y="1313.8244">«client»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="94" x="189.9486" y="1326.8649">Request Meeting</text><ellipse cx="219.1097" cy="1393.3751" fill="#E6F1FB" rx="97.6097" ry="21.9219" style="stroke: #185FA5; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="48" x="195.1097" y="1385.5408">«client»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="168" x="135.1097" y="1398.5813">Provide Project Requirements</text><ellipse cx="230.9772" cy="1480.7932" fill="#E6F1FB" rx="48.9772" ry="20.8401" style="stroke: #185FA5; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="48" x="206.9772" y="1476.0453">«client»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="69" x="196.4772" y="1489.0858">View Project</text><ellipse cx="230.029" cy="1568.0529" fill="#E6F1FB" rx="86.029" ry="20.0998" style="stroke: #185FA5; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="48" x="206.029" y="1562.1518">«client»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="130" x="165.029" y="1575.1924">Track Project Progress</text><ellipse cx="245.1001" cy="1641.2488" fill="#E6F1FB" rx="67.6001" ry="20.2957" style="stroke: #185FA5; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="48" x="221.1001" y="1635.6598">«client»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="100" x="195.1001" y="1648.7003">View Deliverables</text><ellipse cx="245.1729" cy="1720.2652" fill="#E6F1FB" rx="66.1729" ry="26.8121" style="stroke: #185FA5; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="48" x="221.1729" y="1708.7072">«client»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="105" x="192.6729" y="1721.7477">Communicate with</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="84" x="203.1729" y="1734.5524">Al-Alamy Team</text><ellipse cx="238.0154" cy="1810.1191" fill="#E6F1FB" rx="78.0154" ry="20.166" style="stroke: #185FA5; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="48" x="214.0154" y="1804.3241">«client»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="117" x="179.5154" y="1817.3647">Receive Notifications</text><ellipse cx="512.2097" cy="236.5308" fill="#E1F5EE" rx="54.2097" ry="20.5777" style="stroke: #0F6E56; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="78" x="473.2097" y="235.6079">«freelancer»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="47" x="488.7097" y="248.6484">Register</text><ellipse cx="511.8872" cy="333.0769" fill="#E1F5EE" rx="52.8872" ry="20.1237" style="stroke: #0F6E56; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="78" x="472.8872" y="332.8677">«freelancer»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="30" x="496.8872" y="345.9082">Login</text><ellipse cx="468.7856" cy="406.2102" fill="#E1F5EE" rx="96.7856" ry="21.7571" style="stroke: #0F6E56; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="78" x="429.7856" y="399.6206">«freelancer»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="159" x="389.2856" y="412.6611">Manage Professional Profile</text><ellipse cx="490.8978" cy="481.4684" fill="#E1F5EE" rx="58.3978" ry="22.0152" style="stroke: #0F6E56; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="78" x="451.8978" y="478.4325">«freelancer»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="78" x="451.8978" y="491.473">Manage Skills</text><ellipse cx="490.8037" cy="555.7165" fill="#E1F5EE" rx="67.8037" ry="21.2633" style="stroke: #0F6E56; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="78" x="451.8037" y="551.5995">«freelancer»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="95" x="443.3037" y="564.64">Manage Portfolio</text><ellipse cx="473.2179" cy="629.4967" fill="#E1F5EE" rx="93.2179" ry="21.0436" style="stroke: #0F6E56; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="78" x="434.2179" y="623.6949">«freelancer»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="145" x="400.7179" y="636.7354">Select Professional Track</text><ellipse cx="485.1753" cy="716.6906" fill="#E1F5EE" rx="81.1753" ry="20.7375" style="stroke: #0F6E56; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="78" x="446.1753" y="711.7868">«freelancer»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="118" x="426.1753" y="724.8273">View Available Tasks</text><ellipse cx="490.163" cy="803.5688" fill="#E1F5EE" rx="70.663" ry="21.1157" style="stroke: #0F6E56; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="78" x="451.163" y="799.2338">«freelancer»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="100" x="440.163" y="812.2744">View Task Details</text><ellipse cx="508.7754" cy="897.4115" fill="#E1F5EE" rx="56.7754" ry="21.4584" style="stroke: #0F6E56; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="78" x="469.7754" y="895.1717">«freelancer»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="68" x="474.7754" y="908.2122">Accept Task</text><ellipse cx="507.8823" cy="1002.2914" fill="#E1F5EE" rx="57.8823" ry="21.8383" style="stroke: #0F6E56; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="78" x="468.8823" y="999.5058">«freelancer»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="75" x="470.3823" y="1012.5464">Execute Task</text><ellipse cx="508.2336" cy="1129.5688" fill="#E1F5EE" rx="57.2336" ry="21.6156" style="stroke: #0F6E56; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="78" x="469.2336" y="1127.1016">«freelancer»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="71" x="472.7336" y="1140.1421">Submit Task</text><ellipse cx="496.0154" cy="1233.125" fill="#E1F5EE" rx="69.5154" ry="21.1719" style="stroke: #0F6E56; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="78" x="457.0154" y="1228.8732">«freelancer»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="98" x="447.0154" y="1241.9138">View Task Status</text><ellipse cx="479.9274" cy="1319.5742" fill="#E1F5EE" rx="85.9274" ry="20.621" style="stroke: #0F6E56; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="78" x="440.9274" y="1314.4921">«freelancer»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="126" x="416.9274" y="1327.5327">View Review Feedback</text><ellipse cx="472.9767" cy="1393.4485" fill="#E1F5EE" rx="92.9767" ry="20.9953" style="stroke: #0F6E56; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="78" x="433.9767" y="1387.7002">«freelancer»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="144" x="400.9767" y="1400.7407">Receive Revision Request</text><ellipse cx="496.7754" cy="1480.9115" fill="#E1F5EE" rx="56.7754" ry="21.4584" style="stroke: #0F6E56; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="78" x="457.7754" y="1478.6717">«freelancer»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="68" x="462.7754" y="1491.7122">Revise Task</text><ellipse cx="500.1496" cy="1568.1466" fill="#E1F5EE" rx="61.6496" ry="21.6935" style="stroke: #0F6E56; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="78" x="461.1496" y="1564.6537">«freelancer»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="84" x="458.1496" y="1577.6942">Resubmit Task</text><ellipse cx="495.2386" cy="1641.5421" fill="#E1F5EE" rx="71.2386" ry="21.0889" style="stroke: #0F6E56; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="78" x="456.2386" y="1637.1673">«freelancer»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="101" x="444.7386" y="1650.2078">View Task History</text><ellipse cx="485.0841" cy="1720.2069" fill="#E1F5EE" rx="80.5841" ry="20.7538" style="stroke: #0F6E56; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="78" x="446.0841" y="1715.328">«freelancer»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="117" x="426.5841" y="1728.3685">Receive Notifications</text><ellipse cx="812.0138" cy="236.466" fill="#F1EFE8" rx="37.0138" ry="20.5128" style="stroke: #444441; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="52" x="786.0138" y="235.6433">«admin»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="30" x="797.0138" y="248.6839">Login</text><ellipse cx="795.0777" cy="333.0183" fill="#F1EFE8" rx="60.0777" ry="20.5651" style="stroke: #444441; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="52" x="769.0777" y="327.8501">«admin»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="87" x="751.5777" y="340.8906">Manage Clients</text><ellipse cx="778.0566" cy="406.6944" fill="#F1EFE8" rx="77.0566" ry="20.2413" style="stroke: #444441; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="52" x="752.0566" y="401.0194">«admin»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="115" x="720.5566" y="414.0599">Manage Freelancers</text><ellipse cx="786.098" cy="481.3691" fill="#F1EFE8" rx="66.098" ry="20.416" style="stroke: #444441; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="52" x="760.098" y="475.9691">«admin»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="97" x="737.598" y="489.0097">Manage Services</text><ellipse cx="759.8252" cy="555.7182" fill="#F1EFE8" rx="94.3252" ry="21.265" style="stroke: #444441; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="52" x="733.8252" y="548.6777">«admin»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="156" x="681.8252" y="561.7183">Manage Website Templates</text><ellipse cx="760.1303" cy="629.4792" fill="#F1EFE8" rx="90.6303" ry="20.5261" style="stroke: #444441; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="52" x="734.1303" y="623.2111">«admin»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="142" x="689.1303" y="636.2516">Review Service Requests</text><ellipse cx="755.8824" cy="716.5296" fill="#F1EFE8" rx="98.3824" ry="22.0765" style="stroke: #444441; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="52" x="729.8824" y="708.6443">«admin»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="170" x="670.8824" y="721.6848">Review Custom Requirements</text><ellipse cx="786.8089" cy="803.3447" fill="#F1EFE8" rx="67.3089" ry="20.3916" style="stroke: #444441; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="52" x="760.8089" y="797.9066">«admin»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="99" x="737.3089" y="810.9472">Manage Meetings</text><ellipse cx="797.23" cy="897.6198" fill="#F1EFE8" rx="55.23" ry="29.1667" style="stroke: #444441; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="52" x="771.23" y="885.3944">«admin»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="78" x="758.23" y="898.4349">Analyze Client</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="79" x="757.73" y="911.2396">Requirements</text><ellipse cx="796.9996" cy="1002.6367" fill="#F1EFE8" rx="56.4996" ry="20.6836" style="stroke: #444441; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="52" x="770.9996" y="997.6506">«admin»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="81" x="756.4996" y="1010.6911">Create Project</text><ellipse cx="795.0777" cy="1129.5183" fill="#F1EFE8" rx="60.0777" ry="20.5651" style="stroke: #444441; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="52" x="769.0777" y="1124.3501">«admin»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="87" x="751.5777" y="1137.3906">Manage Project</text><ellipse cx="794.9552" cy="1232.9787" fill="#F1EFE8" rx="49.4552" ry="21.0256" style="stroke: #444441; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="52" x="768.9552" y="1228.5095">«admin»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="69" x="760.4552" y="1241.55">Create Task</text><ellipse cx="763.1974" cy="1319.3926" fill="#F1EFE8" rx="92.6974" ry="20.9395" style="stroke: #444441; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="52" x="737.1974" y="1312.6921">«admin»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="150" x="688.1974" y="1325.7326">Define Task Requirements</text><ellipse cx="778.8443" cy="1393.29" fill="#F1EFE8" rx="70.3443" ry="20.3369" style="stroke: #444441; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="52" x="752.8443" y="1387.7661">«admin»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="104" x="726.8443" y="1400.8066">Assign Task Track</text><ellipse cx="779.199" cy="1480.8761" fill="#F1EFE8" rx="51.199" ry="20.923" style="stroke: #444441; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="52" x="753.199" y="1476.2532">«admin»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="72" x="743.199" y="1489.2937">Publish Task</text><ellipse cx="763.8801" cy="1567.9292" fill="#F1EFE8" rx="90.3801" ry="20.476" style="stroke: #444441; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="52" x="737.8801" y="1561.7134">«admin»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="141" x="693.3801" y="1574.754">Monitor Task Acceptance</text><ellipse cx="764.1511" cy="1641.607" fill="#F1EFE8" rx="85.6511" ry="20.1539" style="stroke: #444441; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="52" x="738.1511" y="1635.7927">«admin»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="129" x="699.6511" y="1648.8333">Monitor Task Progress</text><ellipse cx="763.8801" cy="1720.4292" fill="#F1EFE8" rx="90.3801" ry="20.476" style="stroke: #444441; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="52" x="737.8801" y="1714.2134">«admin»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="141" x="693.3801" y="1727.254">Review Task Submission</text><ellipse cx="789.098" cy="1809.8691" fill="#F1EFE8" rx="66.098" ry="20.416" style="stroke: #444441; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="52" x="763.098" y="1804.4691">«admin»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="97" x="740.598" y="1817.5097">Request Revision</text><ellipse cx="790.1325" cy="1898.7323" fill="#F1EFE8" rx="54.1325" ry="20.7791" style="stroke: #444441; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="52" x="764.1325" y="1893.8919">«admin»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="77" x="751.6325" y="1906.9324">Approve Task</text><ellipse cx="790.0394" cy="1976.5051" fill="#F1EFE8" rx="64.5394" ry="25.552" style="stroke: #444441; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="52" x="764.0394" y="1966.5335">«admin»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="108" x="736.0394" y="1979.574">Integrate Approved</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="63" x="758.5394" y="1992.3787">Deliverable</text><ellipse cx="764.8854" cy="2053.3302" fill="#F1EFE8" rx="89.8854" ry="20.3771" style="stroke: #444441; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="52" x="738.8854" y="2047.2182">«admin»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="139" x="695.3854" y="2060.2587">Update Project Progress</text><ellipse cx="774.234" cy="2125.1532" fill="#F1EFE8" rx="80.734" ry="20.2" style="stroke: #444441; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="52" x="748.234" y="2119.4125">«admin»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="121" x="713.734" y="2132.453">Deliver Work to Client</text><ellipse cx="783.0217" cy="2196.3219" fill="#F1EFE8" rx="68.5217" ry="20.3687" style="stroke: #444441; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="52" x="757.0217" y="2190.8479">«admin»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="101" x="732.5217" y="2203.8884">Generate Reports</text><!--MD5=[0ba5ee7700168656dc1b457c6fe9fdac]
+entity Client--><ellipse cx="1106" cy="38.9531" fill="#FFFFFF" rx="8" ry="8" style="stroke: #333333; stroke-width: 1.5;"/><path d="M1106,46.9531 L1106,73.9531 M1093,54.9531 L1119,54.9531 M1106,73.9531 L1093,88.9531 M1106,73.9531 L1119,88.9531 " fill="none" style="stroke: #333333; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="41" x="1085.5" y="102.5918">Client</text><!--MD5=[0f25eb3014a1dc1190273549e0d9da35]
+entity Freelancer--><ellipse cx="1633" cy="38.9531" fill="#FFFFFF" rx="8" ry="8" style="stroke: #333333; stroke-width: 1.5;"/><path d="M1633,46.9531 L1633,73.9531 M1620,54.9531 L1646,54.9531 M1633,73.9531 L1620,88.9531 M1633,73.9531 L1646,88.9531 " fill="none" style="stroke: #333333; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="76" x="1595" y="102.5918">Freelancer</text><!--MD5=[97ab183161fd5d1db7fba7485cf76add]
+entity Admin--><ellipse cx="2056" cy="200.9531" fill="#FFFFFF" rx="8" ry="8" style="stroke: #333333; stroke-width: 1.5;"/><path d="M2056,208.9531 L2056,235.9531 M2043,216.9531 L2069,216.9531 M2056,235.9531 L2043,250.9531 M2056,235.9531 L2069,250.9531 " fill="none" style="stroke: #333333; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="110" x="2001" y="264.5918">Al-Alamy Team /</text><text fill="#000000" font-family="Helvetica" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="97" x="2001" y="278.5605">Administrator</text><!--MD5=[72a9586c6036bc828fb9ec987b717d65]
+entity PaymentGateway--><ellipse cx="1482" cy="1100.9531" fill="#FFFFFF" rx="8" ry="8" style="stroke: #333333; stroke-width: 1.5;"/><path d="M1482,1108.9531 L1482,1135.9531 M1469,1116.9531 L1495,1116.9531 M1482,1135.9531 L1469,1150.9531 M1482,1135.9531 L1495,1150.9531 " fill="none" style="stroke: #333333; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="129" x="1417.5" y="1164.5918">Payment Gateway</text><!--MD5=[664fb5214b54caf89bc32daad5bd9ad3]
+entity SocialMedia--><ellipse cx="1518" cy="966.9531" fill="#FFFFFF" rx="8" ry="8" style="stroke: #333333; stroke-width: 1.5;"/><path d="M1518,974.9531 L1518,1001.9531 M1505,982.9531 L1531,982.9531 M1518,1001.9531 L1505,1016.9531 M1518,1001.9531 L1531,1016.9531 " fill="none" style="stroke: #333333; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="89" x="1473.5" y="1030.5918">Social Media</text><text fill="#000000" font-family="Helvetica" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="68" x="1473.5" y="1044.5605">Platforms</text><ellipse cx="1420.1481" cy="1232.7069" fill="#FAEEDA" rx="68.6481" ry="20.7538" style="stroke: #854F0B; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="66" x="1387.1481" y="1227.828">«external»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="99" x="1370.6481" y="1240.8685">Process Payment</text><ellipse cx="1632.7876" cy="1129.558" fill="#FAEEDA" rx="67.7876" ry="25.1049" style="stroke: #854F0B; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="66" x="1599.7876" y="1121.0043">«external»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="116" x="1574.7876" y="1134.0448">Publish Social Media</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="44" x="1610.7876" y="1146.8495">Content</text><ellipse cx="1788.1472" cy="1129.453" fill="#FAEEDA" rx="69.1472" ry="24.9999" style="stroke: #854F0B; stroke-width: 1.5;"/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="66" x="1755.1472" y="1120.8552">«external»</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="119" x="1728.6472" y="1133.8957">Manage Social Media</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="44" x="1766.1472" y="1146.7004">Content</text><path d="M1580,978.4531 L1580,1026.8672 L1804,1026.8672 L1804,988.4531 L1794,978.4531 L1580,978.4531 " fill="#FFFDF2" style="stroke: #854F0B; stroke-width: 1.0;"/><path d="M1794,978.4531 L1794,988.4531 L1804,988.4531 L1794,978.4531 " fill="#FFFDF2" style="stroke: #854F0B; stroke-width: 1.0;"/><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="203" x="1586" y="993.6636">Business rule: the task is assigned</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="166" x="1586" y="1006.4683">to the first eligible freelancer</text><text fill="#000000" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="160" x="1586" y="1019.2729">who successfully accepts it.</text><!--MD5=[29e21fc6f9918ac5f6b648181995d5ae]
+link UC_C1 to UC_C2--><!--MD5=[8b1413fc99e1d528016341bc6e879bd5]
+link UC_C2 to UC_C3--><!--MD5=[6aad901be037384e84af2b1749b991f0]
+link UC_C3 to UC_C4--><!--MD5=[76198d868d411d719ffa46b342cd0a4c]
+link UC_C4 to UC_C5--><!--MD5=[7eff2c35a0cb384d669cdf11c419692e]
+link UC_C5 to UC_C6--><!--MD5=[6e3d12e69600d7e1dc61ba11d36c7e7d]
+link UC_C6 to UC_C7--><!--MD5=[6e3d12e69600d7e1dc61ba11d36c7e7d]
+link UC_C6 to UC_C7--><path d="M209.5,649.6331 C209.5,649.6331 209.5,694.6031 209.5,694.6031 " fill="none" id="UC_C6-&gt;UC_C7-1" style="stroke: #4A4A48; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#4A4A48" points="209.5,699.6031,213.5,690.6031,209.5,694.6031,205.5,690.6031,209.5,699.6031" style="stroke: #4A4A48; stroke-width: 1.0;"/><text fill="#2C2C2A" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="54" x="192" y="676.6636">«include»</text><!--MD5=[0ae789b65a1068bfd0ff7046ba48ce4d]
+link UC_C7 to UC_C_ReqService--><!--MD5=[f16738494db8372058d3fb0a854804c8]
+link UC_C_ReqService to UC_C8--><!--MD5=[d6f1863f6a640aca9453bc5b65f2c18f]
+link UC_C8 to UC_C_ReqService--><path d="M175.67,880.2131 C175.67,880.2131 175.67,838.7231 175.67,838.7231 " fill="none" id="UC_C8-&gt;UC_C_ReqService" style="stroke: #4A4A48; stroke-width: 1.0;"/><polygon fill="none" points="168.67,838.7231,175.67,818.7231,182.67,838.7231,168.67,838.7231" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[372f03c550c27ab7e8260ad18a51a10c]
+link UC_C8 to UC_C9--><!--MD5=[b6e1e3fb01814abb9f806064ac6fbcc3]
+link UC_C9 to UC_C10--><!--MD5=[49118068d947b32951c4e844364d5474]
+link UC_C10 to UC_C11--><!--MD5=[7a9039843adda47e3069e83fa7c93fa9]
+link UC_C11 to UC_C12--><!--MD5=[383b760f50d70a88ba5a7e2d31fc3cf6]
+link UC_C12 to UC_C11--><path d="M258.33,1299.8231 C258.33,1299.8231 258.33,1257.8031 258.33,1257.8031 " fill="none" id="UC_C12-&gt;UC_C11" style="stroke: #4A4A48; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#4A4A48" points="258.33,1252.8031,254.33,1261.8031,258.33,1257.8031,262.33,1261.8031,258.33,1252.8031" style="stroke: #4A4A48; stroke-width: 1.0;"/><text fill="#2C2C2A" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="52" x="241" y="1280.6636">«extend»</text><!--MD5=[42171b7788dee1150f12b67d6bb1b778]
+link UC_C12 to UC_C13--><!--MD5=[81c7c652f7a5cdc6a0df00fa172cec1e]
+link UC_C13 to UC_C14--><!--MD5=[9f167e46f440cad1dcf288db255c3b61]
+link UC_C14 to UC_C15--><!--MD5=[025d0dc9940bf4d38e46227afde108eb]
+link UC_C15 to UC_C14--><path d="M247.33,1548.2131 C247.33,1534.0731 247.33,1515.1031 247.33,1500.9131 " fill="none" id="UC_C15-UC_C14" style="stroke: #4A4A48; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><text fill="#2C2C2A" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="55" x="243" y="1528.6636">relates to</text><!--MD5=[25da9c56073d3a2967984f4d6fdb18eb]
+link UC_C15 to UC_C16--><!--MD5=[e9c90db3c037bcdacbe34e02bfed56be]
+link UC_C16 to UC_C17--><!--MD5=[4fd0df173decab9c8709ccde431c94cd]
+link UC_C17 to UC_C18--><!--MD5=[49444c9ddfb071fef40d41e9bd364087]
+link UC_F1 to UC_F2--><!--MD5=[30c9394b17d47558528b0b398ae968e9]
+link UC_F2 to UC_F3--><!--MD5=[6ed93f129d31103c5005cb29edb8ce84]
+link UC_F3 to UC_F4--><!--MD5=[e135739efb6e9e9d4b471d6f1bde8471]
+link UC_F4 to UC_F5--><!--MD5=[515a6b9ba18bdd4166613b496d05c004]
+link UC_F5 to UC_F6--><!--MD5=[60629367d2d03dc0d2ca35879e5b0a0f]
+link UC_F6 to UC_F7--><!--MD5=[bcfeaf14fa9cb781b9e5b78098ba06f0]
+link UC_F7 to UC_F8--><!--MD5=[760942053f2c55c59fe328eaf22c5378]
+link UC_F8 to UC_F9--><!--MD5=[e101b24472d9bf6ea6ca168b1a1843c0]
+link UC_F9 to UC_F8--><path d="M506.25,875.6531 C506.25,875.6531 506.25,829.1731 506.25,829.1731 " fill="none" id="UC_F9-&gt;UC_F8" style="stroke: #4A4A48; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#4A4A48" points="506.25,824.1731,502.25,833.1731,506.25,829.1731,510.25,833.1731,506.25,824.1731" style="stroke: #4A4A48; stroke-width: 1.0;"/><text fill="#2C2C2A" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="54" x="510" y="850.6636">«include»</text><!--MD5=[3467c890fc907f31b10d428a48005b80]
+link UC_F9 to UC_F10--><!--MD5=[0e8d049926a76e69607afe058d0b3fb5]
+link UC_F10 to UC_F11--><!--MD5=[8d96d0104563c914dd63baaf26151ed4]
+link UC_F11 to UC_F12--><!--MD5=[370a05a32b7dd6f632bf4de357ddbb63]
+link UC_F12 to UC_F13--><!--MD5=[efedaab7c87166879c35b2d83b0ffc6c]
+link UC_F13 to UC_F14--><!--MD5=[41fda764f221c1a70637e0b88146e7c5]
+link UC_F14 to UC_F15--><!--MD5=[274c4f0455ed6b7db0fd3c96c9aacbff]
+link UC_F15 to UC_F14--><path d="M516,1460.6631 C516,1460.6631 516,1417.1431 516,1417.1431 " fill="none" id="UC_F15-&gt;UC_F14" style="stroke: #4A4A48; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#4A4A48" points="516,1412.1431,512,1421.1431,516,1417.1431,520,1421.1431,516,1412.1431" style="stroke: #4A4A48; stroke-width: 1.0;"/><text fill="#2C2C2A" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="27" x="498" y="1441.6636">after</text><!--MD5=[b2e8383c17fb245d58b311ade806f407]
+link UC_F15 to UC_F16--><!--MD5=[a056cd4b1e04207925b516f0ea4e9535]
+link UC_F16 to UC_F15--><path d="M516,1546.8931 C516,1546.8931 516,1506.5231 516,1506.5231 " fill="none" id="UC_F16-&gt;UC_F15" style="stroke: #4A4A48; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#4A4A48" points="516,1501.5231,512,1510.5231,516,1506.5231,520,1510.5231,516,1501.5231" style="stroke: #4A4A48; stroke-width: 1.0;"/><text fill="#2C2C2A" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="27" x="501" y="1528.6636">after</text><!--MD5=[a46d341a64a13d1636b62017ff90cdad]
+link UC_F16 to UC_F17--><!--MD5=[09e42e7d18c55022fdd4a1f2a87c2218]
+link UC_F17 to UC_F18--><!--MD5=[807d4c3a3a3d2d10466b81ea86412272]
+link UC_A1 to UC_A2--><!--MD5=[2bec4257b20f7ddc71524f6e956e4555]
+link UC_A2 to UC_A3--><!--MD5=[a881c9e88b23d135575dfc78c27458a3]
+link UC_A3 to UC_A4--><!--MD5=[95bcba303c0f7aa9fc5e723bcb6ee154]
+link UC_A4 to UC_A5--><!--MD5=[6492d2f72415a13b617f4da58ef03a3a]
+link UC_A5 to UC_A6--><!--MD5=[1bb3f4ef5428afa1ab84d0efeea92038]
+link UC_A6 to UC_A7--><!--MD5=[e8ae94ca777731ddd5370c6c14ea7b50]
+link UC_A7 to UC_A8--><!--MD5=[fc6c8a0d508a06f79639c55f12333852]
+link UC_A8 to UC_A9--><!--MD5=[e9b59b450989ba33d918ba719c11fd77]
+link UC_A9 to UC_A10--><!--MD5=[2df1fabf87bd28507ba7d5b610dd4edf]
+link UC_A10 to UC_A11--><!--MD5=[d7edfc36e2c8f18da2c17dc1721ebac5]
+link UC_A11 to UC_A12--><!--MD5=[09bc874d7f72cc5d05fad41e500f23e8]
+link UC_A12 to UC_A13--><!--MD5=[fcd64bae2cbc8347f686fefbd112f8c1]
+link UC_A13 to UC_A14--><!--MD5=[4bc25df16cdf7e196dea9cc17443ab8e]
+link UC_A14 to UC_A15--><!--MD5=[0f5b18b05a76089d51d7ee903a5e22e1]
+link UC_A15 to UC_A16--><!--MD5=[050babbcf198d6d86a6b7eba42cae1e4]
+link UC_A16 to UC_A17--><!--MD5=[d5f24ed4f3ade4560bf761347e2880a8]
+link UC_A17 to UC_A18--><!--MD5=[2fc543c329b013b04449e5cbf6ba7c89]
+link UC_A18 to UC_A19--><!--MD5=[b4fe557f8c49d1a6401662f72206aed2]
+link UC_A19 to UC_A20--><!--MD5=[d45f5bb3643dab1d07de95fdf5212b6d]
+link UC_A20 to UC_A21--><!--MD5=[a44ed6066a20a47b838b46ae317f781c]
+link UC_A21 to UC_A22--><!--MD5=[a2cdd287c6143e3afb7c6873b82dc020]
+link UC_A22 to UC_A23--><!--MD5=[f2f236a296b9035b562bb1989a0f095e]
+link UC_A23 to UC_A24--><!--MD5=[4bc660af999da377d0a22c406e2c4b53]
+link UC_C1 to UC_F1--><!--MD5=[d3fa02cd9b9945b3e2effa8efd6a7999]
+link UC_F1 to UC_A1--><!--MD5=[55a915ec308f2f2c6dd5774d1f841ac8]
+link Client to Freelancer--><!--MD5=[e57c9f248b5a320fde1a85e9409dbed0]
+link Freelancer to Admin--><!--MD5=[06f9f1482700f263063215957cf61ee0]
+link Client to UC_C1--><!--MD5=[06f9f1482700f263063215957cf61ee0]
+link Client to UC_C1--><path d="M1085.45,54.9531 C958.97,54.9531 291.33,54.9531 291.33,54.9531 C291.33,54.9531 291.33,167.9631 291.33,215.6331 " fill="none" id="Client-UC_C1" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[aeacb5d1933cb0a8fd99800b314673da]
+link Freelancer to UC_F1--><!--MD5=[aeacb5d1933cb0a8fd99800b314673da]
+link Freelancer to UC_F1--><path d="M1617.8,105.5531 C1617.8,145.6331 1617.8,202.9531 1617.8,202.9531 C1617.8,202.9531 530,202.9531 530,202.9531 C530,202.9531 530,209.5931 530,216.9631 " fill="none" id="Freelancer-UC_F1" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[cb8460eb5134d2bec7d83eb8b6cafe2b]
+link Admin to UC_A1--><!--MD5=[cb8460eb5134d2bec7d83eb8b6cafe2b]
+link Admin to UC_A1--><path d="M2000.94,243.9531 C1787.7,243.9531 1019.44,243.9531 846.67,243.9531 " fill="none" id="Admin-UC_A1" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[4de8399fbad58de230f5a035b500438a]
+link UC_C10 to PaymentGateway--><!--MD5=[4ef68d8a6eef558d3697a215114b882a]
+link UC_C9 to SocialMedia--><!--MD5=[1ba03db270c86f7316e54a6b44e63302]
+link Client to UC_C2--><path d="M1092.33,105.8831 C1092.33,162.5631 1092.33,261.9531 1092.33,261.9531 C1092.33,261.9531 290.5,261.9531 290.5,261.9531 C290.5,261.9531 290.5,292.5331 290.5,313.5531 " fill="none" id="Client-UC_C2" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[442eead019b667c3af3e996d0e3b6461]
+link Client to UC_C3--><path d="M1085.32,44.9531 C951.72,44.9531 216.25,44.9531 216.25,44.9531 C216.25,44.9531 216.25,318.0331 216.25,389.5031 " fill="none" id="Client-UC_C3" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[512085b1d82b266d6dd53a5760d7d20c]
+link Client to UC_C4--><path d="M1085.43,39.9531 C947.56,39.9531 163.25,39.9531 163.25,39.9531 C163.25,39.9531 163.25,389.3931 163.25,466.5131 " fill="none" id="Client-UC_C4" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[9f89cd8337c13e91a6ac08a8ddb7bf0e]
+link Client to UC_C5--><path d="M1085.45,59.9531 C961.86,59.9531 322.67,59.9531 322.67,59.9531 C322.67,59.9531 322.67,555.9531 322.67,555.9531 C322.67,555.9531 308.5,555.9531 291.01,555.9531 " fill="none" id="Client-UC_C5" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[4095a451346f9c26f37a16191b7f2a8f]
+link Client to UC_C6--><path d="M1099.17,105.5631 C1099.17,214.4131 1099.17,518.9531 1099.17,518.9531 C1099.17,518.9531 303.25,518.9531 303.25,518.9531 C303.25,518.9531 303.25,591.2031 303.25,618.8531 " fill="none" id="Client-UC_C6" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[d0396186196b702fbfdc919b31674d23]
+link Client to UC_C7--><path d="M1085.43,34.9531 C942.16,34.9531 99,34.9531 99,34.9531 C99,34.9531 99,594.6631 99,699.6031 " fill="none" id="Client-UC_C7" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[06b1554866617d05ca6bc0cf1a4bced8]
+link Client to UC_C8--><path d="M1106,105.6231 C1106,260.2731 1106,831.9531 1106,831.9531 C1106,831.9531 292.33,831.9531 292.33,831.9531 C292.33,831.9531 292.33,864.3331 292.33,883.5631 " fill="none" id="Client-UC_C8" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[0a6678a87c2cad685de5e1cedc998329]
+link Client to UC_C9--><path d="M1085.21,64.9531 C961.62,64.9531 328.83,64.9531 328.83,64.9531 C328.83,64.9531 328.83,1002.9531 328.83,1002.9531 C328.83,1002.9531 323.53,1002.9531 315.58,1002.9531 " fill="none" id="Client-UC_C9" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[be9e77ce81fc9a80f3dd7d228675e5d3]
+link Client to UC_C10--><path d="M1085.38,70.9531 C962.77,70.9531 335,70.9531 335,70.9531 C335,70.9531 335,1129.9531 335,1129.9531 C335,1129.9531 327.31,1129.9531 316.01,1129.9531 " fill="none" id="Client-UC_C10" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[58c43fe662825ecc4d83af958714a234]
+link Client to UC_C11--><path d="M1085.15,75.9531 C962.57,75.9531 341.17,75.9531 341.17,75.9531 C341.17,75.9531 341.17,1232.9531 341.17,1232.9531 C341.17,1232.9531 330.54,1232.9531 315.56,1232.9531 " fill="none" id="Client-UC_C11" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[8587fdfcb03483cd000ad3d3b74174f6]
+link Client to UC_C12--><path d="M1085.31,80.9531 C963.72,80.9531 347.33,80.9531 347.33,80.9531 C347.33,80.9531 347.33,1319.9531 347.33,1319.9531 C347.33,1319.9531 325.45,1319.9531 301.18,1319.9531 " fill="none" id="Client-UC_C12" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[0df30e418562b6ce657c299a236371a4]
+link Client to UC_C13--><path d="M1112.83,105.6531 C1112.83,311.2431 1112.83,1276.9531 1112.83,1276.9531 C1112.83,1276.9531 308.25,1276.9531 308.25,1276.9531 C308.25,1276.9531 308.25,1356.8431 308.25,1384.3131 " fill="none" id="Client-UC_C13" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[be87883d86b34e4708a7f76fc3254577]
+link Client to UC_C14--><path d="M1085.48,85.9531 C964.88,85.9531 353.5,85.9531 353.5,85.9531 C353.5,85.9531 353.5,1480.9531 353.5,1480.9531 C353.5,1480.9531 314.2,1480.9531 280.12,1480.9531 " fill="none" id="Client-UC_C14" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[dc8f34c283f8ef8517abae7d47908935]
+link Client to UC_C15--><path d="M1119.67,105.7031 C1119.67,326.7531 1119.67,1430.9531 1119.67,1430.9531 C1119.67,1430.9531 298,1430.9531 298,1430.9531 C298,1430.9531 298,1521.3931 298,1555.3131 " fill="none" id="Client-UC_C15" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[32551e1d2527142088393322b81ab418]
+link Client to UC_C16--><path d="M1085.26,90.9531 C964.72,90.9531 359.67,90.9531 359.67,90.9531 C359.67,90.9531 359.67,1641.9531 359.67,1641.9531 C359.67,1641.9531 337.52,1641.9531 312.7,1641.9531 " fill="none" id="Client-UC_C16" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[2b5169a93bd09623182cb3e18a4e58ef]
+link Client to UC_C17--><path d="M1085.43,95.9531 C965.89,95.9531 365.83,95.9531 365.83,95.9531 C365.83,95.9531 365.83,1720.9531 365.83,1720.9531 C365.83,1720.9531 339.28,1720.9531 311.07,1720.9531 " fill="none" id="Client-UC_C17" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[cbf464a25c441b509632ad142ebe88da]
+link Client to UC_C18--><path d="M1085.43,100.9531 C988.41,100.9531 581.25,100.9531 581.25,100.9531 C581.25,100.9531 581.25,1809.9531 581.25,1809.9531 C581.25,1809.9531 417.63,1809.9531 316.32,1809.9531 " fill="none" id="Client-UC_C18" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[8acfb0de1029be0ceb12ef7b77581ff2]
+link Freelancer to UC_F2--><path d="M1621.6,105.7231 C1621.6,163.4031 1621.6,265.9531 1621.6,265.9531 C1621.6,265.9531 529.67,265.9531 529.67,265.9531 C529.67,265.9531 529.67,294.1231 529.67,313.9331 " fill="none" id="Freelancer-UC_F2" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[eb523ed5b8ddfcf7983d9f5bc47f8654]
+link Freelancer to UC_F3--><path d="M1625.4,105.6431 C1625.4,186.7631 1625.4,368.9531 1625.4,368.9531 C1625.4,368.9531 529.67,368.9531 529.67,368.9531 C529.67,368.9531 529.67,379.2231 529.67,389.0231 " fill="none" id="Freelancer-UC_F3" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[f5e82edc9766572b982a6ebf77657e20]
+link Freelancer to UC_F4--><path d="M1629.2,105.6031 C1629.2,200.0131 1629.2,436.9531 1629.2,436.9531 C1629.2,436.9531 510.5,436.9531 510.5,436.9531 C510.5,436.9531 510.5,448.9631 510.5,460.5031 " fill="none" id="Freelancer-UC_F4" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[9f1c2d64fbfbca2612794041f64f644f]
+link Freelancer to UC_F5--><path d="M1633,105.6231 C1633,201.3431 1633,443.9531 1633,443.9531 C1633,443.9531 554.25,443.9531 554.25,443.9531 C554.25,443.9531 554.25,522.2131 554.25,547.9031 " fill="none" id="Freelancer-UC_F5" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[b7ff7b3403a644cb0a198636b0fbc822]
+link Freelancer to UC_F6--><path d="M1636.8,105.7231 C1636.8,202.9831 1636.8,451.9531 1636.8,451.9531 C1636.8,451.9531 562.5,451.9531 562.5,451.9531 C562.5,451.9531 562.5,592.7531 562.5,623.5431 " fill="none" id="Freelancer-UC_F6" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[74db73d14921b604dd30c81e9210c3be]
+link Freelancer to UC_F7--><path d="M1640.6,105.7931 C1640.6,238.8931 1640.6,672.9531 1640.6,672.9531 C1640.6,672.9531 512,672.9531 512,672.9531 C512,672.9531 512,685.4131 512,696.9931 " fill="none" id="Freelancer-UC_F7" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[d263132b69ca099799c307962ddb1a03]
+link Freelancer to UC_F8--><path d="M1644.4,105.7231 C1644.4,251.1131 1644.4,760.9531 1644.4,760.9531 C1644.4,760.9531 513.5,760.9531 513.5,760.9531 C513.5,760.9531 513.5,772.2531 513.5,783.2031 " fill="none" id="Freelancer-UC_F8" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[4e43d50f896836549104cb01c8afc2d9]
+link Freelancer to UC_F9--><path d="M1659.6,105.5031 C1659.6,263.8031 1659.6,861.9531 1659.6,861.9531 C1659.6,861.9531 533.38,861.9531 533.38,861.9531 C533.38,861.9531 533.38,869.4931 533.38,877.6231 " fill="none" id="Freelancer-UC_F9" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[b9038c95c04e83cdd4d1b2733eb64bc6]
+link Freelancer to UC_F10--><path d="M1663.4,105.6531 C1663.4,273.4731 1663.4,936.9531 1663.4,936.9531 C1663.4,936.9531 509,936.9531 509,936.9531 C509,936.9531 509,961.2731 509,980.2731 " fill="none" id="Freelancer-UC_F10" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[97d80e284ca0cbfc5cec0b7adbc28331]
+link Freelancer to UC_F11--><path d="M1598.8,105.6931 C1598.8,115.3131 1598.8,122.9531 1598.8,122.9531 C1598.8,122.9531 596.5,122.9531 596.5,122.9531 C596.5,122.9531 596.5,1129.9531 596.5,1129.9531 C596.5,1129.9531 582.17,1129.9531 565.05,1129.9531 " fill="none" id="Freelancer-UC_F11" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[34b3bc29767ba758701da6b074b13cb5]
+link Freelancer to UC_F12--><path d="M1655.8,105.6531 C1655.8,263.1631 1655.8,853.9531 1655.8,853.9531 C1655.8,853.9531 438.25,853.9531 438.25,853.9531 C438.25,853.9531 438.25,1157.2231 438.25,1221.1931 " fill="none" id="Freelancer-UC_F12" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[49f146963d0607bbc299d19cb742bdac]
+link Freelancer to UC_F13--><path d="M1652,105.5731 C1652,262.0731 1652,846.9531 1652,846.9531 C1652,846.9531 423,846.9531 423,846.9531 C423,846.9531 423,1222.5731 423,1304.0031 " fill="none" id="Freelancer-UC_F13" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[06d1e2f7ec260bb758bff8165f08800e]
+link Freelancer to UC_F14--><path d="M1648.2,105.4931 C1648.2,260.9831 1648.2,839.9531 1648.2,839.9531 C1648.2,839.9531 387,839.9531 387,839.9531 C387,839.9531 387,1316.3431 387,1385.2031 " fill="none" id="Freelancer-UC_F14" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[e6017dc1b54dff302858f41b2f5b2725]
+link Freelancer to UC_F15--><path d="M1602.6,105.8231 C1602.6,123.2131 1602.6,139.9531 1602.6,139.9531 C1602.6,139.9531 611.75,139.9531 611.75,139.9531 C611.75,139.9531 611.75,1480.9531 611.75,1480.9531 C611.75,1480.9531 582.84,1480.9531 554.04,1480.9531 " fill="none" id="Freelancer-UC_F15" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[f2a97501b89bfe0564e4fca71257cadd]
+link Freelancer to UC_F16--><path d="M1594.71,80.9531 C1489.1,80.9531 1201.5,80.9531 1201.5,80.9531 C1201.5,80.9531 1201.5,1444.9531 1201.5,1444.9531 C1201.5,1444.9531 557.75,1444.9531 557.75,1444.9531 C557.75,1444.9531 557.75,1533.3331 557.75,1560.2631 " fill="none" id="Freelancer-UC_F16" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[f7561a4298cf14350692aa6c76edab3d]
+link Freelancer to UC_F17--><path d="M1606.4,105.5731 C1606.4,130.3031 1606.4,157.9531 1606.4,157.9531 C1606.4,157.9531 627,157.9531 627,157.9531 C627,157.9531 627,1641.9531 627,1641.9531 C627,1641.9531 597.27,1641.9531 566.02,1641.9531 " fill="none" id="Freelancer-UC_F17" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[d4114e39d9a00b6d23063ddcdee59767]
+link Freelancer to UC_F18--><path d="M1610.2,105.6531 C1610.2,136.5531 1610.2,174.9531 1610.2,174.9531 C1610.2,174.9531 642.25,174.9531 642.25,174.9531 C642.25,174.9531 642.25,1720.9531 642.25,1720.9531 C642.25,1720.9531 604.46,1720.9531 565.93,1720.9531 " fill="none" id="Freelancer-UC_F18" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[4f9fb3398cacf2bc26ba3efeb991f1da]
+link Admin to UC_A2--><path d="M2000.69,268.9531 C1761.02,268.9531 824.33,268.9531 824.33,268.9531 C824.33,268.9531 824.33,295.8631 824.33,314.7831 " fill="none" id="Admin-UC_A2" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[7ef6c3f352acfca12c537751caf0d65c]
+link Admin to UC_A3--><path d="M2006.5,281.6931 C2006.5,332.2031 2006.5,406.9531 2006.5,406.9531 C2006.5,406.9531 1124.81,406.9531 855.31,406.9531 " fill="none" id="Admin-UC_A3" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[3cf46ea5cb7b9f3444cf48525164e5e1]
+link Admin to UC_A4--><path d="M2012,281.5931 C2012,350.7331 2012,474.9531 2012,474.9531 C2012,474.9531 1099.35,474.9531 848.91,474.9531 " fill="none" id="Admin-UC_A4" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[cb170119e1b7e4c549b8176ade30671e]
+link Admin to UC_A5--><path d="M2017.5,281.5531 C2017.5,369.6231 2017.5,555.9531 2017.5,555.9531 C2017.5,555.9531 1146.96,555.9531 854.52,555.9531 " fill="none" id="Admin-UC_A5" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[675c550b616cd6d54557605c347ba1c8]
+link Admin to UC_A6--><path d="M2023,281.5931 C2023,384.9531 2023,629.9531 2023,629.9531 C2023,629.9531 1139.91,629.9531 850.58,629.9531 " fill="none" id="Admin-UC_A6" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[88f3749975531219637188cb32abcb8a]
+link Admin to UC_A7--><path d="M2028.5,281.6531 C2028.5,401.2731 2028.5,716.9531 2028.5,716.9531 C2028.5,716.9531 1153.26,716.9531 854.53,716.9531 " fill="none" id="Admin-UC_A7" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[58ac279528c0642a8aff43df4083c4c7]
+link Admin to UC_A8--><path d="M2034,281.4631 C2034,415.6831 2034,803.9531 2034,803.9531 C2034,803.9531 1114.11,803.9531 854.49,803.9531 " fill="none" id="Admin-UC_A8" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[1b61c00bc42cdf9351ce28255489e246]
+link Admin to UC_A9--><path d="M2039.5,281.6631 C2039.5,430.8331 2039.5,897.9531 2039.5,897.9531 C2039.5,897.9531 1092.45,897.9531 851.99,897.9531 " fill="none" id="Admin-UC_A9" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[c31c9a20e6225038c7db913567766e23]
+link Admin to UC_A10--><path d="M2000.75,278.9531 C1850.47,278.9531 1445.5,278.9531 1445.5,278.9531 C1445.5,278.9531 1445.5,1002.9531 1445.5,1002.9531 C1445.5,1002.9531 1011.71,1002.9531 853.7,1002.9531 " fill="none" id="Admin-UC_A10" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[4604297349090bb8607c809db724feca]
+link Admin to UC_A11--><path d="M2000.73,274.9531 C1838.25,274.9531 1373.5,274.9531 1373.5,274.9531 C1373.5,274.9531 1373.5,1129.9531 1373.5,1129.9531 C1373.5,1129.9531 1002.99,1129.9531 855,1129.9531 " fill="none" id="Admin-UC_A11" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[92cfb9fdf981617739e59ca57906135e]
+link Admin to UC_A12--><path d="M2000.88,271.9531 C1823.12,271.9531 1276.5,271.9531 1276.5,271.9531 C1276.5,271.9531 1276.5,1232.9531 1276.5,1232.9531 C1276.5,1232.9531 967.74,1232.9531 844.72,1232.9531 " fill="none" id="Admin-UC_A12" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[5ec7b012653a6f7b00cb3e19111a0c7a]
+link Admin to UC_A13--><path d="M2045,281.6331 C2045,486.6931 2045,1319.9531 2045,1319.9531 C2045,1319.9531 1150.2,1319.9531 855.71,1319.9531 " fill="none" id="Admin-UC_A13" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[23ebc2dfcfbe023a7dbce8994ebc16c8]
+link Admin to UC_A14--><path d="M2050.5,281.4731 C2050.5,494.8331 2050.5,1393.9531 2050.5,1393.9531 C2050.5,1393.9531 1116.79,1393.9531 849.63,1393.9531 " fill="none" id="Admin-UC_A14" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[671014094e3be05c618813e0263fec60]
+link Admin to UC_A15--><path d="M2056,281.4831 C2056,504.5931 2056,1480.9531 2056,1480.9531 C2056,1480.9531 1068.45,1480.9531 830.24,1480.9531 " fill="none" id="Admin-UC_A15" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[ad5bbcc6b76adbb40c7d518e80d8ce5e]
+link Admin to UC_A16--><path d="M2061.5,281.5131 C2061.5,514.1031 2061.5,1567.9531 2061.5,1567.9531 C2061.5,1567.9531 1149.51,1567.9531 854.72,1567.9531 " fill="none" id="Admin-UC_A16" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[7b603daae84f82267fe93d3f6526cca2]
+link Admin to UC_A17--><path d="M2067,281.6231 C2067,522.1931 2067,1641.9531 2067,1641.9531 C2067,1641.9531 1139.38,1641.9531 849.49,1641.9531 " fill="none" id="Admin-UC_A17" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[23ac997cb2d386c7ed080916997a87a7]
+link Admin to UC_A18--><path d="M2072.5,281.6931 C2072.5,530.4831 2072.5,1720.9531 2072.5,1720.9531 C2072.5,1720.9531 1151.17,1720.9531 854.71,1720.9531 " fill="none" id="Admin-UC_A18" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[dac70141b470861a1be5d1e57e4c53e8]
+link Admin to UC_A19--><path d="M2078,281.8431 C2078,539.8431 2078,1809.9531 2078,1809.9531 C2078,1809.9531 1118.45,1809.9531 855.14,1809.9531 " fill="none" id="Admin-UC_A19" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[13ecc32176f00ee04e82d345ec655f5d]
+link Admin to UC_A20--><path d="M2083.5,281.7831 C2083.5,548.2331 2083.5,1898.9531 2083.5,1898.9531 C2083.5,1898.9531 1089.85,1898.9531 844.34,1898.9531 " fill="none" id="Admin-UC_A20" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[86ddfcec5b9f823b7745242304663342]
+link Admin to UC_A21--><path d="M2089,281.6731 C2089,555.1931 2089,1976.9531 2089,1976.9531 C2089,1976.9531 1117.63,1976.9531 854.86,1976.9531 " fill="none" id="Admin-UC_A21" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[a1edaf0d4cc526fb030ca612768ae3f1]
+link Admin to UC_A22--><path d="M2094.5,281.8331 C2094.5,562.8731 2094.5,2053.9531 2094.5,2053.9531 C2094.5,2053.9531 1154.03,2053.9531 855.08,2053.9531 " fill="none" id="Admin-UC_A22" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[90e4cb9dcb561e7168ac2d65ee30a513]
+link Admin to UC_A23--><path d="M2100,281.7331 C2100,568.9331 2100,2124.9531 2100,2124.9531 C2100,2124.9531 1142.85,2124.9531 854.95,2124.9531 " fill="none" id="Admin-UC_A23" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[913926dfe501f13515c3c5f0433ee01f]
+link Admin to UC_A24--><path d="M2105.5,281.5531 C2105.5,574.6431 2105.5,2196.9531 2105.5,2196.9531 C2105.5,2196.9531 1123.24,2196.9531 851.78,2196.9531 " fill="none" id="Admin-UC_A24" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[a3677a0cb92aea23331ada0da0db82e7]
+link PaymentGateway to UC_PG1--><path d="M1453,1167.7031 C1453,1183.5931 1453,1201.3131 1453,1214.2731 " fill="none" id="PaymentGateway-UC_PG1" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[2fb8fb89d67907d6375be22a9686ea58]
+link SocialMedia to UC_SM1--><path d="M1562.63,1040.9531 C1569.84,1040.9531 1575,1040.9531 1575,1040.9531 C1575,1040.9531 1575,1091.7731 1575,1116.3931 " fill="none" id="SocialMedia-UC_SM1" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[7453e06b3b43ea71126f2c612c4380e9]
+link SocialMedia to UC_SM2--><path d="M1562.66,1033.9531 C1632.96,1033.9531 1761.5,1033.9531 1761.5,1033.9531 C1761.5,1033.9531 1761.5,1078.0731 1761.5,1106.3331 " fill="none" id="SocialMedia-UC_SM2" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[2f6b182f1748b7d07ccaa758107ae0ff]
+link UC_C8 to UC_C6--><path d="M269.17,879.4531 C269.17,879.4531 269.17,652.7231 269.17,652.7231 " fill="none" id="UC_C8-&gt;UC_C6" style="stroke: #4A4A48; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#4A4A48" points="269.17,647.7231,265.17,656.7231,269.17,652.7231,273.17,656.7231,269.17,647.7231" style="stroke: #4A4A48; stroke-width: 1.0;"/><text fill="#2C2C2A" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="54" x="261" y="764.6636">«include»</text><!--MD5=[9249896bacf789f4f197cadcc410ac9f]
+link UC_C9 to UC_C_ReqService--><path d="M172.21,1002.9531 C150.65,1002.9531 132.62,1002.9531 132.62,1002.9531 C132.62,1002.9531 132.62,844.0531 132.62,844.0531 " fill="none" id="UC_C9-&gt;UC_C_ReqService" style="stroke: #4A4A48; stroke-width: 1.0;"/><polygon fill="none" points="125.63,844.0531,132.62,824.0531,139.63,844.0531,125.63,844.0531" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[735947be0f641040a6436c2cc13870be]
+link UC_C10 to UC_C_ReqService--><path d="M135.9,1129.9531 C131.73,1129.9531 129.25,1129.9531 129.25,1129.9531 C129.25,1129.9531 129.25,844.3731 129.25,844.3731 " fill="none" id="UC_C10-&gt;UC_C_ReqService" style="stroke: #4A4A48; stroke-width: 1.0;"/><polygon fill="none" points="122.25,844.3731,129.25,824.3731,136.25,844.3731,122.25,844.3731" style="stroke: #4A4A48; stroke-width: 1.0;"/><!--MD5=[f610949382301169d201012605cebda4]
+link UC_C11 to UC_C_ReqService--><path d="M125.88,1227.2031 C125.88,1227.2031 125.88,828.9031 125.88,828.9031 " fill="none" id="UC_C11-&gt;UC_C_ReqService" style="stroke: #4A4A48; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#4A4A48" points="125.88,823.9031,121.88,832.9031,125.88,828.9031,129.88,832.9031,125.88,823.9031" style="stroke: #4A4A48; stroke-width: 1.0;"/><text fill="#2C2C2A" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="52" x="81" y="1006.6636">«extend»</text><!--MD5=[b08986eca436a3ac55e19365678ce99b]
+link UC_F9 to GMN216--><path d="M537.5,916.2531 C537.5,930.6131 537.5,947.9531 537.5,947.9531 C537.5,947.9531 1587.5,947.9531 1587.5,947.9531 C1587.5,947.9531 1587.5,963.7931 1587.5,978.3931 " fill="none" id="UC_F9-GMN216" style="stroke: #4A4A48; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><!--MD5=[84bc7eb11c57e237f7080a2df1178070]
+link UC_C10 to UC_PG1--><path d="M255.67,1148.9331 C255.67,1166.6131 255.67,1189.9531 255.67,1189.9531 C255.67,1189.9531 1395.5,1189.9531 1395.5,1189.9531 C1395.5,1189.9531 1395.5,1208.2131 1395.5,1208.2131 " fill="none" id="UC_C10-&gt;UC_PG1" style="stroke: #4A4A48; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#4A4A48" points="1395.5,1213.2131,1399.5,1204.2131,1395.5,1208.2131,1391.5,1204.2131,1395.5,1213.2131" style="stroke: #4A4A48; stroke-width: 1.0;"/><text fill="#2C2C2A" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="54" x="1372" y="1193.6636">«include»</text><!--MD5=[05b1fef4208bcac6607571df1390df09]
+link UC_C9 to UC_SM1--><path d="M229.7,1027.5831 C229.7,1046.7831 229.7,1069.9531 229.7,1069.9531 C229.7,1069.9531 1570,1069.9531 1570,1069.9531 C1570,1069.9531 1570,1114.8931 1570,1114.8931 " fill="none" id="UC_C9-&gt;UC_SM1" style="stroke: #4A4A48; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#4A4A48" points="1570,1119.8931,1574,1110.8931,1570,1114.8931,1566,1110.8931,1570,1119.8931" style="stroke: #4A4A48; stroke-width: 1.0;"/><text fill="#2C2C2A" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="54" x="1350" y="1073.6636">«include»</text><!--MD5=[14361b2ddedbebf4f3bfa72ed7dd59e2]
+link UC_A4 to UC_SM2--><path d="M847.44,488.9531 C1071.33,488.9531 1830.5,488.9531 1830.5,488.9531 C1830.5,488.9531 1830.5,1104.5831 1830.5,1104.5831 " fill="none" id="UC_A4-&gt;UC_SM2" style="stroke: #4A4A48; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#4A4A48" points="1830.5,1109.5831,1834.5,1100.5831,1830.5,1104.5831,1826.5,1100.5831,1830.5,1109.5831" style="stroke: #4A4A48; stroke-width: 1.0;"/><text fill="#2C2C2A" font-family="Helvetica" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="54" x="1803" y="764.6636">«include»</text><rect fill="#DDDDDD" height="23.9688" rx="5" ry="5" style="stroke: #000000; stroke-width: 1.0;" width="695" x="716.5" y="2290.9531"/><text fill="#000000" font-family="Helvetica" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="683" x="722.5" y="2307.0918">Core Business Rule: The first eligible freelancer to successfully accept an available task is assigned the task.</text><!--MD5=[9f3af31958520bbb904d5d436a5b43c2]
+@startuml AlAlamyUseCase
+title Al-Alamy — High-Level Use Case Diagram
+
+skinparam backgroundColor White
+skinparam shadowing false
+skinparam ArrowColor #4A4A48
+skinparam ArrowFontColor #2C2C2A
+skinparam ArrowFontSize 11
+skinparam defaultFontName Helvetica
+skinparam defaultFontSize 12
+skinparam titleFontSize 18
+skinparam titleFontStyle bold
+skinparam noteFontSize 11
+skinparam packageStyle rectangle
+skinparam nodesep 18
+skinparam ranksep 30
+skinparam linetype ortho
+
+skinparam actor {
+  BackgroundColor White
+  BorderColor #333333
+  FontStyle bold
+}
+
+skinparam usecase {
+  BackgroundColor<<client>> #E6F1FB
+  BorderColor<<client>> #185FA5
+  BackgroundColor<<freelancer>> #E1F5EE
+  BorderColor<<freelancer>> #0F6E56
+  BackgroundColor<<admin>> #F1EFE8
+  BorderColor<<admin>> #444441
+  BackgroundColor<<external>> #FAEEDA
+  BorderColor<<external>> #854F0B
+  FontSize 11
+}
+
+skinparam rectangle {
+  BackgroundColor White
+  BorderColor #333333
+  FontStyle bold
+  FontSize 14
+}
+
+skinparam package {
+  BackgroundColor White
+  BorderColor #777770
+  FontStyle bold
+  FontSize 13
+}
+
+skinparam note {
+  BackgroundColor #FFFDF2
+  BorderColor #854F0B
+}
+
+actor "Client" as Client
+actor "Freelancer" as Freelancer
+actor "Al-Alamy Team /\nAdministrator" as Admin
+actor "Payment Gateway" as PaymentGateway
+actor "Social Media\nPlatforms" as SocialMedia
+
+rectangle "Al-Alamy Digital Transformation & Career Opportunity Platform" as AlAlamy {
+
+  package "Client use cases" as PkgClient {
+    usecase "Register" as UC_C1 <<client>>
+    usecase "Login" as UC_C2 <<client>>
+    usecase "Manage Account" as UC_C3 <<client>>
+    usecase "Manage Business Profile" as UC_C4 <<client>>
+    usecase "Browse Services" as UC_C5 <<client>>
+    usecase "View Website Templates" as UC_C6 <<client>>
+    usecase "Preview Website Template" as UC_C7 <<client>>
+    usecase "Request Service" as UC_C_ReqService <<client>>
+    usecase "Request Website Service" as UC_C8 <<client>>
+    usecase "Request Social Media\nManagement" as UC_C9 <<client>>
+    usecase "Request Paid Advertising" as UC_C10 <<client>>
+    usecase "Submit Custom Requirement" as UC_C11 <<client>>
+    usecase "Request Meeting" as UC_C12 <<client>>
+    usecase "Provide Project Requirements" as UC_C13 <<client>>
+    usecase "View Project" as UC_C14 <<client>>
+    usecase "Track Project Progress" as UC_C15 <<client>>
+    usecase "View Deliverables" as UC_C16 <<client>>
+    usecase "Communicate with\nAl-Alamy Team" as UC_C17 <<client>>
+    usecase "Receive Notifications" as UC_C18 <<client>>
+  }
+
+  package "Freelancer use cases" as PkgFreelancer {
+    usecase "Register" as UC_F1 <<freelancer>>
+    usecase "Login" as UC_F2 <<freelancer>>
+    usecase "Manage Professional Profile" as UC_F3 <<freelancer>>
+    usecase "Manage Skills" as UC_F4 <<freelancer>>
+    usecase "Manage Portfolio" as UC_F5 <<freelancer>>
+    usecase "Select Professional Track" as UC_F6 <<freelancer>>
+    usecase "View Available Tasks" as UC_F7 <<freelancer>>
+    usecase "View Task Details" as UC_F8 <<freelancer>>
+    usecase "Accept Task" as UC_F9 <<freelancer>>
+    usecase "Execute Task" as UC_F10 <<freelancer>>
+    usecase "Submit Task" as UC_F11 <<freelancer>>
+    usecase "View Task Status" as UC_F12 <<freelancer>>
+    usecase "View Review Feedback" as UC_F13 <<freelancer>>
+    usecase "Receive Revision Request" as UC_F14 <<freelancer>>
+    usecase "Revise Task" as UC_F15 <<freelancer>>
+    usecase "Resubmit Task" as UC_F16 <<freelancer>>
+    usecase "View Task History" as UC_F17 <<freelancer>>
+    usecase "Receive Notifications" as UC_F18 <<freelancer>>
+  }
+
+  package "Admin / Al-Alamy Team use cases" as PkgAdmin {
+    usecase "Login" as UC_A1 <<admin>>
+    usecase "Manage Clients" as UC_A2 <<admin>>
+    usecase "Manage Freelancers" as UC_A3 <<admin>>
+    usecase "Manage Services" as UC_A4 <<admin>>
+    usecase "Manage Website Templates" as UC_A5 <<admin>>
+    usecase "Review Service Requests" as UC_A6 <<admin>>
+    usecase "Review Custom Requirements" as UC_A7 <<admin>>
+    usecase "Manage Meetings" as UC_A8 <<admin>>
+    usecase "Analyze Client\nRequirements" as UC_A9 <<admin>>
+    usecase "Create Project" as UC_A10 <<admin>>
+    usecase "Manage Project" as UC_A11 <<admin>>
+    usecase "Create Task" as UC_A12 <<admin>>
+    usecase "Define Task Requirements" as UC_A13 <<admin>>
+    usecase "Assign Task Track" as UC_A14 <<admin>>
+    usecase "Publish Task" as UC_A15 <<admin>>
+    usecase "Monitor Task Acceptance" as UC_A16 <<admin>>
+    usecase "Monitor Task Progress" as UC_A17 <<admin>>
+    usecase "Review Task Submission" as UC_A18 <<admin>>
+    usecase "Request Revision" as UC_A19 <<admin>>
+    usecase "Approve Task" as UC_A20 <<admin>>
+    usecase "Integrate Approved\nDeliverable" as UC_A21 <<admin>>
+    usecase "Update Project Progress" as UC_A22 <<admin>>
+    usecase "Deliver Work to Client" as UC_A23 <<admin>>
+    usecase "Generate Reports" as UC_A24 <<admin>>
+  }
+}
+
+usecase "Process Payment" as UC_PG1 <<external>>
+usecase "Publish Social Media\nContent" as UC_SM1 <<external>>
+usecase "Manage Social Media\nContent" as UC_SM2 <<external>>
+
+UC_C1 -[hidden]d-> UC_C2
+UC_C2 -[hidden]d-> UC_C3
+UC_C3 -[hidden]d-> UC_C4
+UC_C4 -[hidden]d-> UC_C5
+UC_C5 -[hidden]d-> UC_C6
+UC_C6 -[hidden]d-> UC_C7
+UC_C7 -[hidden]d-> UC_C_ReqService
+UC_C_ReqService -[hidden]d-> UC_C8
+UC_C8 -[hidden]d-> UC_C9
+UC_C9 -[hidden]d-> UC_C10
+UC_C10 -[hidden]d-> UC_C11
+UC_C11 -[hidden]d-> UC_C12
+UC_C12 -[hidden]d-> UC_C13
+UC_C13 -[hidden]d-> UC_C14
+UC_C14 -[hidden]d-> UC_C15
+UC_C15 -[hidden]d-> UC_C16
+UC_C16 -[hidden]d-> UC_C17
+UC_C17 -[hidden]d-> UC_C18
+
+UC_F1 -[hidden]d-> UC_F2
+UC_F2 -[hidden]d-> UC_F3
+UC_F3 -[hidden]d-> UC_F4
+UC_F4 -[hidden]d-> UC_F5
+UC_F5 -[hidden]d-> UC_F6
+UC_F6 -[hidden]d-> UC_F7
+UC_F7 -[hidden]d-> UC_F8
+UC_F8 -[hidden]d-> UC_F9
+UC_F9 -[hidden]d-> UC_F10
+UC_F10 -[hidden]d-> UC_F11
+UC_F11 -[hidden]d-> UC_F12
+UC_F12 -[hidden]d-> UC_F13
+UC_F13 -[hidden]d-> UC_F14
+UC_F14 -[hidden]d-> UC_F15
+UC_F15 -[hidden]d-> UC_F16
+UC_F16 -[hidden]d-> UC_F17
+UC_F17 -[hidden]d-> UC_F18
+
+UC_A1 -[hidden]d-> UC_A2
+UC_A2 -[hidden]d-> UC_A3
+UC_A3 -[hidden]d-> UC_A4
+UC_A4 -[hidden]d-> UC_A5
+UC_A5 -[hidden]d-> UC_A6
+UC_A6 -[hidden]d-> UC_A7
+UC_A7 -[hidden]d-> UC_A8
+UC_A8 -[hidden]d-> UC_A9
+UC_A9 -[hidden]d-> UC_A10
+UC_A10 -[hidden]d-> UC_A11
+UC_A11 -[hidden]d-> UC_A12
+UC_A12 -[hidden]d-> UC_A13
+UC_A13 -[hidden]d-> UC_A14
+UC_A14 -[hidden]d-> UC_A15
+UC_A15 -[hidden]d-> UC_A16
+UC_A16 -[hidden]d-> UC_A17
+UC_A17 -[hidden]d-> UC_A18
+UC_A18 -[hidden]d-> UC_A19
+UC_A19 -[hidden]d-> UC_A20
+UC_A20 -[hidden]d-> UC_A21
+UC_A21 -[hidden]d-> UC_A22
+UC_A22 -[hidden]d-> UC_A23
+UC_A23 -[hidden]d-> UC_A24
+
+UC_C1 -[hidden]r-> UC_F1
+UC_F1 -[hidden]r-> UC_A1
+
+Client -[hidden]r-> Freelancer
+Freelancer -[hidden]r-> Admin
+Client -[hidden]d-> UC_C1
+Freelancer -[hidden]d-> UC_F1
+Admin -[hidden]d-> UC_A1
+
+UC_C10 -[hidden]r-> PaymentGateway
+UC_C9 -[hidden]r-> SocialMedia
+
+Client - - UC_C1
+Client - - UC_C2
+Client - - UC_C3
+Client - - UC_C4
+Client - - UC_C5
+Client - - UC_C6
+Client - - UC_C7
+Client - - UC_C8
+Client - - UC_C9
+Client - - UC_C10
+Client - - UC_C11
+Client - - UC_C12
+Client - - UC_C13
+Client - - UC_C14
+Client - - UC_C15
+Client - - UC_C16
+Client - - UC_C17
+Client - - UC_C18
+
+Freelancer - - UC_F1
+Freelancer - - UC_F2
+Freelancer - - UC_F3
+Freelancer - - UC_F4
+Freelancer - - UC_F5
+Freelancer - - UC_F6
+Freelancer - - UC_F7
+Freelancer - - UC_F8
+Freelancer - - UC_F9
+Freelancer - - UC_F10
+Freelancer - - UC_F11
+Freelancer - - UC_F12
+Freelancer - - UC_F13
+Freelancer - - UC_F14
+Freelancer - - UC_F15
+Freelancer - - UC_F16
+Freelancer - - UC_F17
+Freelancer - - UC_F18
+
+Admin - - UC_A1
+Admin - - UC_A2
+Admin - - UC_A3
+Admin - - UC_A4
+Admin - - UC_A5
+Admin - - UC_A6
+Admin - - UC_A7
+Admin - - UC_A8
+Admin - - UC_A9
+Admin - - UC_A10
+Admin - - UC_A11
+Admin - - UC_A12
+Admin - - UC_A13
+Admin - - UC_A14
+Admin - - UC_A15
+Admin - - UC_A16
+Admin - - UC_A17
+Admin - - UC_A18
+Admin - - UC_A19
+Admin - - UC_A20
+Admin - - UC_A21
+Admin - - UC_A22
+Admin - - UC_A23
+Admin - - UC_A24
+
+PaymentGateway - - UC_PG1
+SocialMedia - - UC_SM1
+SocialMedia - - UC_SM2
+
+UC_C8 ..> UC_C6 : <<include>>
+UC_C6 ..> UC_C7 : <<include>>
+UC_C8 - -|> UC_C_ReqService
+UC_C9 - -|> UC_C_ReqService
+UC_C10 - -|> UC_C_ReqService
+UC_C11 ..> UC_C_ReqService : <<extend>>
+UC_C12 ..> UC_C11 : <<extend>>
+UC_C15 .. UC_C14 : relates to
+
+UC_F9 ..> UC_F8 : <<include>>
+UC_F15 ..> UC_F14 : after
+UC_F16 ..> UC_F15 : after
+
+note bottom of UC_F9
+  Business rule: the task is assigned
+  to the first eligible freelancer
+  who successfully accepts it.
+end note
+
+UC_C10 ..> UC_PG1 : <<include>>
+UC_C9 ..> UC_SM1 : <<include>>
+UC_A4 ..> UC_SM2 : <<include>>
+
+legend bottom center
+  Core Business Rule: The first eligible freelancer to successfully accept an available task is assigned the task.
+endlegend
+
+@enduml
+
+PlantUML version 1.2020.02(Sun Mar 01 10:22:07 UTC 2020)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 21.0.10+7-Ubuntu-124.04
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
